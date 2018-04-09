@@ -9,11 +9,11 @@
 
 Часть 2.
 1) Три самых частотных модификатора (modifiers) существительного question.
-Many
+Many, Important,Such
 ![](https://github.com/Sofialovestodance/hw6/blob/master/6.2.1%20(many).png)
-Important
+ 
 ![](https://github.com/Sofialovestodance/hw6/blob/master/6.2.1%20(important).png)
-Such
+ 
 ![](https://github.com/Sofialovestodance/hw6/blob/master/6.2.1%20(such).png)
 
 2)Я выбрала два синонимичных глагола: «answer» и «reply». 
