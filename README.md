@@ -12,9 +12,9 @@
 Many
 ![](https://github.com/Sofialovestodance/hw6/blob/master/6.2.1%20(many).png)
 Important
-![](https://github.com/Sofialovestodance/hw6/blob/master/6.2.2.png)
+![](https://github.com/Sofialovestodance/hw6/blob/master/6.2.1%20(important).png)
 Such
-![](https://github.com/Sofialovestodance/hw6/blob/master/6.2.3.png)
+![](https://github.com/Sofialovestodance/hw6/blob/master/6.2.1%20(such).png)
 
 2)Я выбрала два синонимичных глагола: «answer» и «reply». 
 На скриншоте видно с какими дополнениями (objects) они могут употребляться.
@@ -22,5 +22,5 @@ Such
 Дополнение «question» может употребляться только со словом «answer».
 Дополнение «endill» может употребляться только со словом «reply».
 
-![](https://github.com/Sofialovestodance/hw6/blob/master/6.2.2.2.png)
-![](https://github.com/Sofialovestodance/hw6/blob/master/6.2.2.21.png)
+![](https://github.com/Sofialovestodance/hw6/blob/master/6.2.3.png)
+![](https://github.com/Sofialovestodance/hw6/blob/master/6.2.3(2).png)
