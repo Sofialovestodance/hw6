@@ -8,7 +8,7 @@
 ![](https://github.com/Sofialovestodance/hw6/blob/master/6.3.png) 
 
 Часть 2.
-1) Три самых частотных модификатора (modifiers) существительного question.
+1)Три самых частотных модификатора (modifiers) существительного question.
 Many, Important,Such
 ![](https://github.com/Sofialovestodance/hw6/blob/master/6.2.1%20(many).png)
  
@@ -24,3 +24,8 @@ Many, Important,Such
 
 ![](https://github.com/Sofialovestodance/hw6/blob/master/6.2.3.png)
 ![](https://github.com/Sofialovestodance/hw6/blob/master/6.2.3(2).png)
+
+3) Исходя из двух графиков, мы можем увидеть, что Scetch Engine не отображает слово "award" вплоть до 1978 года, однако если посмотреть на google NGRAM, мы можем сделать вывод что слово "award" уже активно использовалось в XIX веке. Оба источника показывают, что употребление слова резко возросло, начиная с 1980х годов. Различия можно объяснить тем, что для статистики были использованы разная литература ( разных жанров) и источники.
+
+![](https://github.com/Sofialovestodance/hw6/blob/master/Award%201%20.png)
+![](https://github.com/Sofialovestodance/hw6/blob/master/Award%202.png)
